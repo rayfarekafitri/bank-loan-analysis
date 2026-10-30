@@ -1,27 +1,19 @@
 # Bank Loan Analysis Dashboard
 
 ## Project Overview
-This project explores bank loan data to understand loan portfolio performance, repayment status, and lending trends. The analysis is presented through three interactive dashboards built using Tableau.
+This project analyzes bank loan data to explore loan portfolio performance, repayment status, and lending trends. The results are presented through interactive dashboards built using Tableau.
 
-## Dashboards
+## Interactive Dashboard
 
-### 1. Summary Dashboard
-Provides an overview of the loan portfolio through key performance indicators, including:
-- Total loan applications
-- Total funded amount and amount received
-- Good loans vs. bad loans
-- Loan status and average interest rate
+Explore the dashboard on Tableau Public:
 
-### 2. Overview Dashboard
-Explores loan distribution and lending patterns based on:
-- Monthly trends in loan applications
-- Loan purposes
-- Loan terms
-- Borrower employment length
-- Home ownership status
+**[View Bank Loan Report Dashboard](https://public.tableau.com/views/BankLoanReportAnalysis_17875621162270/SUMMARY?:language=en-US&:showVizHome=no)**
 
-### 3. Details Dashboard
-Provides a detailed view of individual loan records to support further exploration of loan portfolio performance.
+The dashboard includes three sections:
+
+- **Summary:** Overview of loan applications, funded amounts, amounts received, interest rates, and good vs. bad loans.
+- **Overview:** Exploration of lending trends and loan distribution across different categories.
+- **Details:** Detailed loan records for further analysis.
 
 ## Key Insights
 - Good loans accounted for approximately 86.2% of the loan portfolio.
